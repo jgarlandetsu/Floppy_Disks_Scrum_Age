@@ -1,7 +1,0 @@
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\bin\Debug\StoneAgeConsole.exe.config
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\bin\Debug\StoneAgeConsole.exe
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\bin\Debug\StoneAgeConsole.pdb
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\obj\Debug\StoneAgeConsole.csprojAssemblyReference.cache
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\obj\Debug\StoneAgeConsole.csproj.CoreCompileInputs.cache
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\obj\Debug\StoneAgeConsole.exe
-C:\Users\field\source\repos\StoneAgeConsole\StoneAgeConsole\obj\Debug\StoneAgeConsole.pdb
